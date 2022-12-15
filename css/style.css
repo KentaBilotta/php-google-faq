@@ -1,0 +1,15 @@
+.container{
+    font-family: "Roboto", sans-serif;
+    line-height: 1.5em;
+    max-width: 80%;
+    margin: auto;
+}
+
+a{
+    color: #3367d6;
+    text-decoration: none;
+}
+
+a, a:hover, a:visited {
+    color: #3367d6;
+}
